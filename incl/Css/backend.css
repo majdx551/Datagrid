@@ -1,0 +1,30 @@
+
+/* ********************************************** START MANAGE PAGE ************************ */
+.table thead th {
+	text-align: center;
+}
+
+a .manage btn btn-primary{
+	margin:150px;
+	padding:100px;
+}
+/* ********************************************** FINISH MANAGE PAGE *********************** */
+
+
+
+/* ********************************************** START ADD PAGE *************************** */
+.container, .form-horizontal, .form-group{
+    width: 100%;
+    padding-right: 1px;
+    padding-left: 111px;
+    margin-right: 54px;
+    margin-left: 100px;
+    padding-top: 1px;
+}
+
+.add
+{
+margin:1px 85px;	
+}
+/* ********************************************** FINISH ADD PAGE *************************** */
+

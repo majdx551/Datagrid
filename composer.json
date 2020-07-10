@@ -1,0 +1,21 @@
+{
+    "name": "majdb/strap",
+    "description": "PHP Datagrid",
+    "authors": [
+        {
+            "name": "majd",
+            "email": "majd.by08@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    },
+    "autoload":{
+        "files": [
+            "./incl/index.php"
+           
+        ]
+          
+        
+    }
+}
